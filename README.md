@@ -1,5 +1,7 @@
 # Projeto de Controle de LEDs com Interrupções e Debouncing para Raspberry Pi Pico W / BitDogLab
 
+Autor: Vinicius de Jesus Paz
+
 Este projeto foi desenvolvido para consolidar a compreensão do uso de interrupções em microcontroladores e a manipulação de LEDs, incluindo LEDs comuns e LEDs endereçáveis WS2812. Ele utiliza a placa de desenvolvimento **BitDogLab** com o microcontrolador **RP2040** (Raspberry Pi Pico W) para realizar as seguintes funcionalidades:
 
 ## Objetivos
