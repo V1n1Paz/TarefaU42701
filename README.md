@@ -108,3 +108,5 @@ Vídeo de demonstração: Deve ser produzido um vídeo de até 2 minutos, no qua
 • Aparecer pessoalmente demonstrando o funcionamento do projeto.
 • Explicar brevemente as funcionalidades implementadas.
 • Mostrar o projeto em execução na placa BitDogLab.
+
+##ATENÇÂO: REPOSITÓRIO DISPONÍVEL NA BRANCH MAIN !!
