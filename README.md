@@ -35,6 +35,25 @@ Este projeto foi desenvolvido para consolidar a compreensão do uso de interrup�
 
 ## Como Rodar
 
-1. Clone este repositório para o seu ambiente local:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+### Pré-requisitos
+
+- **Raspberry Pi Pico W** ou **BitDogLab**.
+- **VS Code** configurado com a **Pico SDK**.
+- **CMake** e **GCC** para compilação.
+
+### Passo 1: Instalar o Pico SDK
+
+Para compilar o código e carregar no Raspberry Pi Pico W, é necessário ter o **Pico SDK** instalado no seu ambiente de desenvolvimento. Siga os passos abaixo para configurar:
+
+1. **Instalar o VS Code**: Se você ainda não tem o Visual Studio Code instalado, faça o download [aqui](https://code.visualstudio.com/).
+
+2. **Instalar o Pico SDK**:
+   - Siga as instruções de instalação do Pico SDK no [site oficial da Raspberry Pi](https://www.raspberrypi.org/documentation/pico/getting-started/).
+   - Após isso, configure o SDK no seu ambiente com as instruções fornecidas no link.
+
+### Passo 2: Clonar o Repositório
+
+Clone o repositório para o seu computador:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
